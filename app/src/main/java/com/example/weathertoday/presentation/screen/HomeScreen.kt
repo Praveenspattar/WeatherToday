@@ -136,7 +136,7 @@ fun GreetingPreview() {
                         sunrise = 1686700000,
                         sunset = 1686745000,
                         id = 10,
-                        type = 10
+                        type = 100
                     ),
                     timezone = 19800,
                     visibility = 10000,
