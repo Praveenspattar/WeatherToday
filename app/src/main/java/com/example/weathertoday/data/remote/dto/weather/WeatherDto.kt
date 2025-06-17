@@ -1,4 +1,8 @@
-package com.example.weathertoday.data.remote.dto
+package com.example.weathertoday.data.remote.dto.weather
+
+import com.example.weathertoday.data.remote.dto.Clouds
+import com.example.weathertoday.data.remote.dto.Coord
+import com.example.weathertoday.data.remote.dto.Weather
 
 data class WeatherDto(
     val base: String,

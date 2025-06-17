@@ -11,4 +11,6 @@ val PurpleGrey40 = Color(0xFF625b71)
 val Pink40 = Color(0xFF7D5260)
 
 //custom
-val SkyBlue = Color(0xFF82CAFF)
+val Primary = Color(0xFF212529)
+val Secondary = Color(0xFF343a40)
+val textColor = Color(0xFFf8f9fa)
